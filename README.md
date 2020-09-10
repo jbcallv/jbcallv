@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-[<img align="left" alt="Eclipse" width="35px" src="https://www.wku.edu/cs/images/eclipse_logo.png" />][webdevplaylist]
+[<img align="left" alt="Eclipse" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5Szfwum01NLejHx6i6bSWNCLgH5PZUpNQPA&usqp=CAU" />][webdevplaylist]
 
 [<img align="left" alt="Python" width="60px" src="https://www.pngjoy.com/pngl/148/2968261_circle-logo-python-circle-logo-png-download.png" />][webdevplaylist]
 
