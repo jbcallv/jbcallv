@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Python" width="32px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />][webdevplaylist]
 
-
+[<img align="left" alt="Android" width="32px" src="https://cdn.vox-cdn.com/thumbor/YHfKvMFzpSu_j2AY8KoMefG6rTY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19086219/Android_logo_stacked__RGB_.jpg" />][webdevplaylist]
 
 <br />
 <br />
