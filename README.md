@@ -23,7 +23,10 @@
 
 [<img align="left" alt="Java" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/java-512.png" />][webdevplaylist]
 
+[<img align="left" alt="Vim" width="26px" src="https://www.netclipart.com/pp/m/366-3666084_vim-jump-vim-logo-png.png" />][webdevplaylist]
+
 [<img align="left" alt="Python" width="60px" src="https://www.pngjoy.com/pngl/148/2968261_circle-logo-python-circle-logo-png-download.png" />][webdevplaylist]
+
 
 
 <br />
