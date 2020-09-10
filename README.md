@@ -25,4 +25,4 @@
 [website]: https://github.com/jbcallv/brickBreaker
 <!--[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr-->
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://github.com/jbcallv/jbcallv
