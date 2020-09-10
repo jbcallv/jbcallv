@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [Brick Breaker Game][website]
 - 🌱 I’m trying to learn everything
-- 👯 I’m looking to collaborate with other content creators
+- 🙂 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I like running and playing guitar / piano
 
 <br />
