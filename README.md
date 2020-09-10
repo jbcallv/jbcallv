@@ -15,6 +15,8 @@
 
 [<img align="left" alt="Eclipse" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5Szfwum01NLejHx6i6bSWNCLgH5PZUpNQPA&usqp=CAU" />][webdevplaylist]
 
+[<img align="left" alt="Neovim" width="30px" src="https://cdn.pling.com/img/b/e/b/9/fbb87f28fb51124e5475ca55973c7a0aa894.png" />][webdevplaylist]
+
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
@@ -23,7 +25,7 @@
 
 [<img align="left" alt="Java" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/java-512.png" />][webdevplaylist]
 
-[<img align="left" alt="Vim" width="30px" src="https://www.netclipart.com/pp/m/366-3666084_vim-jump-vim-logo-png.png" />][webdevplaylist]
+[<img align="left" alt="C++" width="39px" src="https://simg.nicepng.com/png/small/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" />][webdevplaylist]
 
 [<img align="left" alt="Python" width="60px" src="https://www.pngjoy.com/pngl/148/2968261_circle-logo-python-circle-logo-png-download.png" />][webdevplaylist]
 
