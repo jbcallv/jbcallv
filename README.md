@@ -27,7 +27,7 @@
 
 [<img align="left" alt="C++" width="27px" src="https://simg.nicepng.com/png/small/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" />][webdevplaylist]
 
-[<img align="left" alt="Python" width="27px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="32px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />][webdevplaylist]
 
 
 
