@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Java" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/java-512.png" />][webdevplaylist]
 
-[<img align="left" alt="C++" width="39px" src="https://simg.nicepng.com/png/small/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" />][webdevplaylist]
+[<img align="left" alt="C++" width="30px" src="https://simg.nicepng.com/png/small/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" />][webdevplaylist]
 
 [<img align="left" alt="Python" width="60px" src="https://www.pngjoy.com/pngl/148/2968261_circle-logo-python-circle-logo-png-download.png" />][webdevplaylist]
 
