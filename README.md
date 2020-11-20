@@ -2,10 +2,9 @@
 
 ## I'm a Computer Science Student!
 
-- 🔭 I’m currently working on a [Brick Breaker Game][website]
-- 🌱 I’m trying to learn everything
+- 🔭 I’m currently working on learning about AI through python games
 - 🙂 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I like running and playing guitar / piano
+- ⚡ Fun fact: I enjoy playing musical instruments!
 
 <br />
 
