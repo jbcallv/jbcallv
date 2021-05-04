@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student!
 
-- 🔭 I’m currently working on learning about AI
+- 🔭 I’m currently working on Web Applications
 - 🙂 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I enjoy playing musical instruments!
 
