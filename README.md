@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 
-- I’m currently doing full-stack (MERN) web development
+- I’m currently doing full-stack web development
 - I’m looking to collaborate with other content creators
 - Fun fact: I enjoy playing musical instruments!
 
@@ -12,10 +12,10 @@
 
 Programming: Python, Javascript, C++, Java
 <br />
-Databases: PostgreSQL, MongoDB, SQLite, Psycopg2
+Databases: PostgreSQL, MongoDB, SQLite, Psycopg2, Prisma ORM
 <br />
-Frameworks: React.js, Express.js, Node.js
+Frameworks: Vue.js, React.js, Express.js, Node.js, Quasar, Material UI
 <br />
-Tools: Prisma, Docker, DigitalOcean, Android Studio, Intellij, Eclipse, Firebase, Git, Visual Studio, SFML
+Tools: Docker, DigitalOcean, Netlify, Heroku, Android Studio, Intellij, Eclipse, Firebase, Supabase, Git, Visual Studio, SFML
 <br />
 Operating Systems: Windows, Linux, MacOS, Android
