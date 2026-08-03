@@ -2,20 +2,16 @@
 
 ## I'm a Software Developer!
 
-- I’m currently doing full-stack development
-- I’m looking to collaborate with other content creators
-- Fun fact: I enjoy playing musical instruments!
+- I’m currently doing AI Engineering.
+- I’m looking to collaborate with other creators.
+- Fun fact: I enjoy playing musical instruments.
 
 <br />
 
 ### Languages and Tools:
-
-Programming: Python, Javascript, C++, C#, Java
-<br />
-Databases: Microsoft SQL Server, PostgreSQL, MongoDB, SQLite, Psycopg2, Prisma ORM
-<br />
-Frameworks: Vue.js, React.js, Node.js, Express.js, DotNetNuke
-<br />
-Tools: Docker, DigitalOcean, Netlify, Heroku, Android Studio, Intellij, Eclipse, Firebase, Supabase, Git, Visual Studio, SFML
-<br />
-Operating Systems: Windows, Linux, MacOS, Android
+- AI & ML: LLMs, agentic systems, multi-agent orchestration, RAG (retrieval-augmented generation), embeddings, Pydantic AI, LangChain, LSTM, QLoRA, CUDA, PyTorch
+- Languages: Python, C#, TypeScript, JavaScript, SQL, Visual Basic
+- Backend: FastAPI, Node.js, Express.js, .NET 2.0 / 4.0 / 8.0
+- Frontend: React, Vue, Angular, TailwindCSS
+- Cloud & DevOps: GCP (Cloud Functions, Cloud SQL, Eventarc, Pub/Sub), AWS, Azure, Docker, CI/CD, Git
+- Databases: PostgreSQL, MS SQL Server, Supabase, AlloyDB, MongoDB
