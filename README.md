@@ -10,15 +10,15 @@ Richmond, VA · [Google Scholar](https://scholar.google.com/citations?hl=en&user
 
 ## Research
 
-**Search-Based Evolutionary Data Pruning for Class-Level Code Summarization**
+**Search-Based Evolutionary Data Pruning for Class-Level Code Summarization.**
 ICSE 2026, JAWS Workshop. First author.
 [Paper](https://conf.researchr.org/details/icse-2026/jaws-2026-papers/53/Search-Based-Evolutionary-Data-Pruning-for-Class-Level-Code-Summarization)
 
-**Resource-Efficient and Effective Code Summarization**
+**Resource-Efficient and Effective Code Summarization.**
 FORGE 2025. Second author.
 [Paper](https://arxiv.org/pdf/2502.03617)
 
-**SIPS, IPPS, or Oops! An Analysis of the Security and Privacy of DNS Service Discovery**
+**SIPS, IPPS, or Oops! An Analysis of the Security and Privacy of DNS Service Discovery.**
 USENIX Security 2024. First author.
 [Paper](https://www.cs.wm.edu/~smherwig/pub/24-sec-dnssd-poster-abstract.pdf)
 
