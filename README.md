@@ -1,17 +1,34 @@
-### Hi there, I'm Joseph - 👋🏻
+# Joseph Call
 
-## I'm a Software Developer!
+AI engineer and PhD researcher. I build agentic systems that run in production,
+and I study how to keep them from getting attacked.
 
-- I’m currently doing AI Engineering.
-- I’m looking to collaborate with other creators.
-- Fun fact: I enjoy playing musical instruments.
+PhD work at the AURA Lab at William & Mary on securing
+agent-to-agent communication over untrusted networks.
 
-<br />
+Richmond, VA · [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwj8mR0AAAAJ) · jbcallv@gmail.com
 
-### Languages and Tools:
-- AI & ML: LLMs, agentic systems, multi-agent orchestration, RAG (retrieval-augmented generation), embeddings, Pydantic AI, LangChain, LSTM, QLoRA, CUDA, PyTorch
-- Languages: Python, C#, TypeScript, JavaScript, SQL, Visual Basic
-- Backend: FastAPI, Node.js, Express.js, .NET 2.0 / 4.0 / 8.0
-- Frontend: React, Vue, Angular, TailwindCSS
-- Cloud & DevOps: GCP (Cloud Functions, Cloud SQL, Eventarc, Pub/Sub), AWS, Azure, Docker, CI/CD, Git
-- Databases: PostgreSQL, MS SQL Server, Supabase, AlloyDB, MongoDB
+## Research
+
+**Search-Based Evolutionary Data Pruning for Class-Level Code Summarization**
+ICSE 2026, JAWS Workshop. First author.
+[Paper](https://conf.researchr.org/details/icse-2026/jaws-2026-papers/53/Search-Based-Evolutionary-Data-Pruning-for-Class-Level-Code-Summarization)
+
+**Resource-Efficient and Effective Code Summarization**
+FORGE 2025. Second author.
+[Paper](https://arxiv.org/pdf/2502.03617)
+
+**SIPS, IPPS, or Oops! An Analysis of the Security and Privacy of DNS Service Discovery**
+USENIX Security 2024. First author.
+[Paper](https://www.cs.wm.edu/~smherwig/pub/24-sec-dnssd-poster-abstract.pdf)
+
+In progress: sandboxed policy enforcement for agent-to-agent networks. gVisor,
+attenuating and attested tokens. Defends against prompt injection, tool misuse,
+confused deputy, and privilege escalation. Targeting USENIX Security.
+
+## Stack
+
+Python, Go, C#, TypeScript
+Agentic systems, multi-agent orchestration, RAG, Pydantic AI, LangChain, PyTorch, CUDA
+GCP (Cloud Functions, Cloud SQL, Eventarc, Pub/Sub), AWS, Docker
+PostgreSQL, MS SQL Server, AlloyDB
